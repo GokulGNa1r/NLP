@@ -1,0 +1,49 @@
+text,toxicity,severe_toxicity,obscene,threat,insult,identity_attack
+"Thanks, this was really helpful!",0,0,0,0,0,0
+"Great article, I learned a lot from it.",0,0,0,0,0,0
+"I disagree with the second point, but it is well argued.",0,0,0,0,0,0
+Can someone explain how this works?,0,0,0,0,0,0
+Congratulations on the new job!,0,0,0,0,0,0
+The weather is lovely today.,0,0,0,0,0,0
+This tutorial is clear and easy to follow.,0,0,0,0,0,0
+I think the committee made a reasonable decision.,0,0,0,0,0,0
+Could you share the source for this claim?,0,0,0,0,0,0
+"Nice work, the results look impressive.",0,0,0,0,0,0
+Thank you for fixing the bug so quickly.,0,0,0,0,0,0
+"I respectfully disagree, here is my reasoning.",0,0,0,0,0,0
+The match yesterday was exciting to watch.,0,0,0,0,0,0
+Please update the document before the meeting.,0,0,0,0,0,0
+I love the new design of the website.,0,0,0,0,0,0
+"Welcome to the forum, feel free to ask questions.",0,0,0,0,0,0
+This recipe turned out delicious.,0,0,0,0,0,0
+"Good point, I had not thought about it that way.",0,0,0,0,0,0
+The library has extended its opening hours.,0,0,0,0,0,0
+Looking forward to the next release.,0,0,0,0,0,0
+"Great discussion, everyone made valid points.",0,0,0,0,0,0
+The movie had a slow start but a strong ending.,0,0,0,0,0,0
+I appreciate your patience with this issue.,0,0,0,0,0,0
+We should schedule a call to discuss the plan.,0,0,0,0,0,0
+You are an idiot and nobody wants you here.,1,0,0,0,1,0
+"Shut up, you stupid moron.",1,0,0,0,1,0
+"What a pathetic loser, get a life.",1,0,0,0,1,0
+You are so dumb it hurts to read your posts.,1,0,0,0,1,0
+"Go away, nobody likes you, you worthless fool.",1,0,0,0,1,0
+This is complete crap and you are a clown.,1,0,1,0,1,0
+"What the hell is wrong with you, you piece of garbage.",1,0,1,0,1,0
+I will find you and hurt you.,1,0,0,1,0,0
+"Watch your back, I am coming for you.",1,0,0,1,0,0
+"I will make you regret this, you will pay for it.",1,0,0,1,0,0
+Keep talking and I will break your face.,1,1,0,1,0,0
+"I hope you die, you disgusting wretch.",1,1,0,1,1,0
+"People like you should be wiped out, you vermin.",1,1,0,1,1,1
+Those people are all filthy and should go back where they came from.,1,0,0,0,0,1
+"I hate all of them, that whole group is subhuman.",1,1,0,0,1,1
+Women are too stupid to do this job.,1,0,0,0,1,1
+"Your kind ruins everything, we do not want your type here.",1,0,0,0,0,1
+Immigrants are all criminals and parasites.,1,1,0,0,1,1
+"This damn thing is bullshit, what a freaking mess.",1,0,1,0,0,0
+"Holy crap, that is the most bullshit article ever.",1,0,1,0,0,0
+"Damn, this is some stupid shit.",1,0,1,0,1,0
+"What an ass, he ruined the whole thing.",1,0,1,0,1,0
+Stop being such a jerk to everyone.,1,0,0,0,1,0
+You are a disgusting excuse for a human being.,1,1,0,0,1,0
